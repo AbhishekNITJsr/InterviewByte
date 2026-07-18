@@ -11,7 +11,7 @@ import InterviewHistory from './pages/InterviewHistory'
 import Pricing from './pages/Pricing'
 import InterviewReport from './pages/InterviewReport'
 
-export const ServerUrl  = import.meta.env.SERVER_URL,
+export const ServerUrl  = import.meta.env.SERVER_URL;
 
 function App() {
 
